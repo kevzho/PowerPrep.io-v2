@@ -1,0 +1,18 @@
+Copyright © 2025 Kevin Zhou
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are made available for viewing purposes only. No part of this Software may be copied, reproduced, modified, distributed, or used in any form or for any purpose—including personal, educational, or commercial—without prior written permission from the copyright holder.
+
+Use of the source code, in whole or in part, is strictly prohibited unless explicitly granted through a trademark license or written agreement.
+
+You may not:
+
+- Use the Software for commercial or non-commercial purposes
+- Modify or create derivative works based on the Software
+- Redistribute or sublicense the Software
+- Claim ownership or authorship of the Software or its components
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+For licensing inquiries or permission requests, please contact: kevinz09302009@gmail.com
